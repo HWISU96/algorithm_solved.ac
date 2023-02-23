@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d88335e-5f80-409a-a9a8-10dad519385a" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/bronze5_1000.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677138446020</updated>
-      <workItem from="1677138447431" duration="1864000" />
+      <workItem from="1677138447431" duration="2181000" />
     </task>
     <servers />
   </component>
